@@ -1,7 +1,6 @@
 #!/usr/bin/python
 """
 make a csv from TA result,cell-cgi, and mapinfo csv
-by: hugh.wang@ericsson.com
 ver: 0.0.1 20/04/2015
 """
 def make_bingroup():
