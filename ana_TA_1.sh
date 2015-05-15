@@ -1,5 +1,5 @@
 #!/bin/bash
-logs_dir='/home/hugh/tmp/TA_14042015/TA_CELLTRACE_14042015'
+logs_dir='/home/donal/tmp/TA_CELLTRACE_12052015'
 ls $logs_dir| while read enb
 do
 	eNB_name=${enb:10:10}
